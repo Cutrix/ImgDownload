@@ -18,6 +18,7 @@ python img.py -u <host>
 
 ## SCREENSHOOT
 
+![capture](https://cloud.githubusercontent.com/assets/20740865/25309807/761c85a2-27c6-11e7-97b4-6687d13ec981.PNG)
 
 
 
